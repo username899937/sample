@@ -6,7 +6,7 @@
 ##### Expected Output : The string is Palindrome.
 <hr>
 
-### 2.  Write a program in C# Sharp to make such a pattern like right angle triangle with a number which will repeat a number in a row. Go to the editor
+### 2.  Write a program in C# Sharp to make such a pattern like right angle triangle with a number which will repeat a number in a row. 
 #### The pattern like :
 ##### 1
 ##### 22
@@ -14,13 +14,13 @@
 ##### 4444
 <hr>
 
-### 3. Write a C# Sharp program to find whether a given year is a leap year or not. Go to the editor
+### 3. Write a C# Sharp program to find whether a given year is a leap year or not. 
 #### Test Data : 2016
 #### Expected Output : 2016 is a leap year.
 <hr>
 
 
-### 4. Write a program in C# Sharp to display the first n terms of Fibonacci series. Go to the editor
+### 4. Write a program in C# Sharp to display the first n terms of Fibonacci series. 
 #### Fibonacci series 0 1 2 3 5 8 13 .....
 ##### Test Data :
 ##### Input number of terms to display : 10
@@ -29,7 +29,7 @@
 ##### 0 1 1 2 3 5 8 13 21 34
 <hr>
 
-### 5. Write a program in C# Sharp to create a function to input a string and count number of spaces are in the string. Go to the editor
+### 5. Write a program in C# Sharp to create a function to input a string and count number of spaces are in the string. 
 #### Test Data :
 ##### Please input a string : This is a test string.
 ##### Expected Output : "This is a test string." contains 4 spaces
